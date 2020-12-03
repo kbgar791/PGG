@@ -1,0 +1,13 @@
+C:\Users\kbgar791\source\repos\GameV1\GameV1\bin\Debug\GameV1.exe.config
+C:\Users\kbgar791\source\repos\GameV1\GameV1\bin\Debug\GameV1.exe
+C:\Users\kbgar791\source\repos\GameV1\GameV1\bin\Debug\GameV1.pdb
+C:\Users\kbgar791\source\repos\GameV1\GameV1\bin\Debug\GameV1.xml
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.vbprojAssemblyReference.cache
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.PacManGunGame.resources
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.Resources.resources
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.SplashScreen1.resources
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.SplashScreen2.resources
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.vbproj.GenerateResource.cache
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.exe
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.xml
+C:\Users\kbgar791\source\repos\GameV1\GameV1\obj\Debug\GameV1.pdb
